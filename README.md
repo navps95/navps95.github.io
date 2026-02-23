@@ -1,6 +1,6 @@
 # Navaneeth Subramanya
 ## Security Consultant | AppSec | Penetration Testing | Cloud Security | Product Security
-[LinkedIn](https://www.linkedin.com/in/navaneeth-ps/) | [HackTheBox](YourLink) 
+[LinkedIn](https://www.linkedin.com/in/navaneeth-ps/) | [HackTheBox](YourLink) | [Github](https://github.com/navps95)
 
 ---
 
